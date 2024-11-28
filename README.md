@@ -50,5 +50,5 @@ The Candidate Search is meant for finding potentials employees for anything comp
 
 
 
-- **Live Application URL**: [kanban-board](<https://kanban-board-pm5p.onrender.com/login>)
+- **Live Application URL**: [kanban-board](<https://kanban-board-pm5p.onrender.com/>)
 - **GitHub Repository**: [kanban-board](<https://github.com/An-109/Kanban-Board>)
